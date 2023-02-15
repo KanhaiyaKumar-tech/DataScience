@@ -1,0 +1,257 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.18.0.42:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 18:32:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 18:32:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 18:32:17] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 18:32:17] "[33mGET /css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.18.0.42:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 18:42:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 18:42:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 18:42:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 18:42:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 18:43:31] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 18:43:31] "[33mGET /css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.42:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 18:44:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 18:44:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 18:44:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:log my final result []
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 18:44:44] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 18:44:44] "[33mGET /css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.42:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 18:59:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 18:59:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 18:59:21] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 18:59:21] "[33mGET /css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.42:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 19:00:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 19:00:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 19:00:16] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 19:00:16] "[33mGET /css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 19:00:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 19:00:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 19:00:26] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 19:00:26] "[33mGET /css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.42:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 19:03:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 19:03:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 19:03:17] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 19:03:18] "[33mGET /css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 19:03:27] "[33mGET /css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 21:48:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 21:48:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:02:49] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:02:51] "[33mGET /css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:05:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:05:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:05:38] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:05:38] "[33mGET /css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:12:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:12:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:12:53] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:12:54] "[33mGET /css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:13:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:13:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:13:50] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:13:50] "[33mGET /css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:17:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:17:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:17:32] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:17:32] "[33mGET /css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:17:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:17:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:18:01] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:18:02] "[33mGET /css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:47:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:47:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:47:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:local variable 'name' referenced before assignment
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:47:47] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:48:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:48:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:local variable 'mydict' referenced before assignment
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 22:48:14] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:03:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:03:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:local variable 'mydict' referenced before assignment
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:03:49] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:04:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:04:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:04:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:04:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:HTTP Error 504: Gateway Time-out
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:05:01] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:06:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:06:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:06:28] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:06:28] "[33mGET /css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:07:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:07:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:07:16] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:07:17] "[33mGET /css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:16:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:16:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:root:'list' object has no attribute 'items'
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:16:56] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:17:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:17:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:root:'list' object has no attribute 'items'
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:17:53] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:18:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:18:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:18:56] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:18:56] "[33mGET /css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:20:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:20:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:20:45] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:20:45] "[33mGET /css HTTP/1.1[0m" 404 -
+INFO:root:log my final result []
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:20:57] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:20:57] "[33mGET /css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:23:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:23:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:23:17] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:23:17] "[33mGET /css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.12:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:28:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:28:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:29:01] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:29:02] "[33mGET /css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:38:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:38:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:40:21] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [14/Feb/2023 23:40:21] "[33mGET /css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [15/Feb/2023 01:52:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
